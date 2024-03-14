@@ -7,9 +7,14 @@ cabecalho {
     color: white;
     display:flex;
     justify-content:space-arround;
-    align-items:center;
+    align-itens:center;
     padding: 24px 0;
 }
 .cabecalho-imagem{
     width:20%
+}
+.cabecalho-lista-item{
+    display:inline-block;
+    margin:0 16px;
+    font-size: 24px;
 }
