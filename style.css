@@ -52,3 +52,6 @@ cabecalho {
     text-align:center;
     padding:16xp 0;
 }
+.estudante-todos{
+    display:grid;
+    grid-yemplate-coluns: 20% 20% 20% 20% 20%
